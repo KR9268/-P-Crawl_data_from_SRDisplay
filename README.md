@@ -3,6 +3,7 @@
 ## 개요
 - SAP에 있는 SR의 데이터를 활용하여 모든 자재의 HSCODE 등 여러 정보를 중복없이 오름차순으로 정리해주는 툴
 - 확인가능한 값 : Sales Org, Plant(Code,Name), POL, POD, HSCODE, Description
+  - 2024.07.26 요청받아 항목추가(합산된 포장수량, 지정된 형식의 자재명/자재코드 요약본)
 
 ## 필수사항
 - SAPGUI : SAP Scripting 활용
