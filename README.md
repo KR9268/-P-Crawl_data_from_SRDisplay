@@ -17,7 +17,8 @@
 ## 필수사항
 - SAPGUI : SAP Scripting 활용
 - SAP권한 : ZLED50110_D
-- NERP_PI_LC 모듈 설치 필요
+- 아래의 SAP제어용 공통패키지 사용
+  - [https://github.com/KR9268/NERPpkb](https://github.com/KR9268/NERPpkb)
 
 ## 사용법
 - SAP 로그인 후 첫번째창 코드 실행
